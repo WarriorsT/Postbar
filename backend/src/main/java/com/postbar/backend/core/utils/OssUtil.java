@@ -12,8 +12,8 @@ public class OssUtil {
     // endpoint是访问OSS的域名
     private static String endpoint = "http://oss-cn-beijing.aliyuncs.com";
     // accessKeyId和accessKeySecret是OSS的访问密钥
-    private static String accessKeyId = "LTAI5tC9KFomcFrpdvi7DHRV";
-    private static String accessKeySecret = "3J0EIcl7jZrR0ZOdmzuL9pIshryZC9";
+    private static String accessKeyId = "null";
+    private static String accessKeySecret = "null";
     //bucket的名称
     private static String bucketName = "videosbuckets";
     private static String objectName = "videos/";
